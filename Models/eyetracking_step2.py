@@ -5,6 +5,7 @@ import os
 import time
 import pandas as pd
 from sklearn.linear_model import LinearRegression
+
 from sklearn.preprocessing import PolynomialFeatures
 # ====== CONFIG ======
 IMAGE_FOLDER = r"C:/Users/mamil/OneDrive/Documents/autism_detection_project/Data/Saliency4ASD Dataset/Saliency4ASD/dataset/Images"
